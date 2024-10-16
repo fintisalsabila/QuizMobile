@@ -16,7 +16,3 @@ Menu ini menampilkan:
 
 ### 3. **Menu Info**
 Menu ini berisi informasi mengenai detail project ini, seperti tujuan dan teknologi yang digunakan.
-
----
-
-Dengan struktur ini, README memberikan penjelasan yang lebih rapi dan informatif.
