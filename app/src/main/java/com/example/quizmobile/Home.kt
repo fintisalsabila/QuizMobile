@@ -25,8 +25,8 @@ class Home : Fragment() {
         // Inflate the layout for this fragment
         val view = inflater.inflate(R.layout.fragment_home, container, false)
 
-        val cardViewProfileDaniel = view.findViewById<CardView>(R.id.cardViewProfileDaniel)
-        cardViewProfileDaniel.setOnClickListener {
+        val cardViewProfileFintiSalsabila = view.findViewById<CardView>(R.id.cardViewProfileFintiSalsabila)
+        cardViewProfileFintiSalsabila.setOnClickListener {
             val intent = Intent(activity, Halaman2::class.java)
             startActivity(intent)
         }

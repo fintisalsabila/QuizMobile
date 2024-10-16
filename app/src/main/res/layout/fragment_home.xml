@@ -31,7 +31,7 @@
 
         <!-- Menu Item 3 -->
         <androidx.cardview.widget.CardView
-            android:id="@+id/cardViewProfileDaniel"
+            android:id="@+id/cardViewProfileFintiSalsabila"
             android:layout_width="0dp"
             android:layout_height="125dp"
             android:layout_columnWeight="1"

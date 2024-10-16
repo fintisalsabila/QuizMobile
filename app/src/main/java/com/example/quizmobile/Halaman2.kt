@@ -13,7 +13,7 @@ class Halaman2 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_halaman1)
 
-        btnBack = findViewById(R.id.btnBackDaniel)
+        btnBack = findViewById(R.id.btnBackFintiSalsabila)
 
         btnBack.setOnClickListener{
             val intent = Intent(this, FragmainActivity::class.java)
